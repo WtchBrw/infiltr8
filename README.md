@@ -1,9 +1,9 @@
-#Infiltr8
+# Infiltr8
 
 this is a fun idea I had to create something of a pseudo-cybersec game. The goal here is to use various commands in a terminal-style web interface in order to explore, map and "attack" hosts on a simulated network. However, scanning too aggressively, spoofing yourself to look like another user, and other various actions may gain some unwanted attention from bots and the simulated IDS/IPS within, so be careful!
 
 
-###This is a WIP, not everything works but below are some of the next steps for mechanics I had in mind to implement
+### This is a WIP, not everything works but below are some of the next steps for mechanics I had in mind to implement
 
 ```
 Command Ideas:
